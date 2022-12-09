@@ -6,6 +6,7 @@ import Counter2 from "./Counter2.jsx";
 
 import Navbar from "./Navbar.jsx";
 import Todos from "./Todos.jsx";
+import Posts from "./Posts.jsx";
 
 //create your first component
 const App = () => {
